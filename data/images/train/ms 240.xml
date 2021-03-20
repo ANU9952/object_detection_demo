@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mysore sandal soap</folder>
+	<filename>ms 240.jpg</filename>
+	<path>E:\pg final project\dataset 2\mysore sandal soap\ms 240.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mysore sandal soap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>310</ymin>
+			<xmax>624</xmax>
+			<ymax>999</ymax>
+		</bndbox>
+	</object>
+</annotation>

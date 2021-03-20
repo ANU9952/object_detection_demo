@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mysore sandal soap</folder>
+	<filename>IMG_7685 226.jpg</filename>
+	<path>E:\pg final project\dataset 2\mysore sandal soap\IMG_7685 226.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mysore sandal soap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>308</ymin>
+			<xmax>1076</xmax>
+			<ymax>1911</ymax>
+		</bndbox>
+	</object>
+</annotation>
