@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Dates (3-21-2021 2-23-17 PM)</folder>
+	<filename>Dates 167.jpg</filename>
+	<path>C:\Users\Anooba\Music\dataset\Dates (3-21-2021 2-23-17 PM)\Dates 167.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>352</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lion dates</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>132</ymin>
+			<xmax>342</xmax>
+			<ymax>446</ymax>
+		</bndbox>
+	</object>
+</annotation>

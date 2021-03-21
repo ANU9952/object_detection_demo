@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ANU</folder>
+	<filename>ANU 102.jpg</filename>
+	<path>C:\Users\Anooba\Music\dataset\ANU\ANU 102.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bingo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>292</ymin>
+			<xmax>662</xmax>
+			<ymax>1028</ymax>
+		</bndbox>
+	</object>
+</annotation>
