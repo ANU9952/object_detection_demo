@@ -1,19 +1,15 @@
 item {
     id: 1
-    name: 'door'
+    name: 'Lion dates'
 }
 
 item {
     id: 2
-    name: 'room'
+    name: 'Bingo'
 }
 
 item {
     id: 3
-    name: 'wall'
+    name: 'mysore sandal soap'
 }
 
-item {
-    id: 4
-    name: 'window'
-}
